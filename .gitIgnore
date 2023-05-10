@@ -1,0 +1,7 @@
+#Ignora archivo del sistema
+.DS_store
+
+#Ignora la carpeta
+bot_sessions
+node_modules
+

@@ -1,0 +1,152 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF5F12E080B98924BD2',
+    participant: undefined
+  },
+  messageTimestamp: 1683750821,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5764EACC62D6A448A8',
+    participant: undefined
+  },
+  messageTimestamp: 1683750828,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1B84C300BC44B4B60E',
+    participant: undefined
+  },
+  messageTimestamp: 1683750832,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3A876D7B9822E7CD0800',
+    participant: undefined
+  },
+  messageTimestamp: 1683750839,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3A31AD85219F1AAC427E',
+    participant: undefined
+  },
+  messageTimestamp: 1683750848,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC9A4C494AEAD6CC228',
+    participant: undefined
+  },
+  messageTimestamp: 1683750855,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA9AAD437EFD7D88BF2',
+    participant: undefined
+  },
+  messageTimestamp: 1683750863,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593962929447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593962929447@s.whatsapp.net',
+    fromMe: false,
+    id: '3A81A445EA18EC2061BB',
+    participant: undefined
+  },
+  messageTimestamp: 1683750868,
+  pushName: 'GK Studio',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '593962929447'
+}
